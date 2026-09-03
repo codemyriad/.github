@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://codemyriad.io">codemyriad.io</a> ·
   <a href="https://codemyriad.io/blog">Blog</a> ·
-  <a href="https://forum.codemyriad.io">Forum</a> ·
   <a href="mailto:team@codemyriad.io">team@codemyriad.io</a>
 </p>
 
@@ -49,4 +48,4 @@ We also keep forks of upstream projects we depend on or contribute to, such as [
 
 ## Get in touch
 
-Have a workflow held together by spreadsheets and one person who knows how it works? Write to [team@codemyriad.io](mailto:team@codemyriad.io) or start a thread on the [forum](https://forum.codemyriad.io).
+Have a workflow held together by spreadsheets and one person who knows how it works? Write to [team@codemyriad.io](mailto:team@codemyriad.io).
