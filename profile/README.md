@@ -34,7 +34,7 @@
 
 | Project | What it is | Code |
 | :-- | :-- | :-- |
-| [Librocco](https://codemyriad.io/projects/01-librocco) | Open-source, local-first inventory management for independent bookshops. Runs daily at [Il Libraio, Cuneo](https://illibraiocuneo.com/). | [librocco/librocco](https://github.com/librocco/librocco) |
+| [Librocco](https://codemyriad.io/projects/01-librocco) | Open-source, local-first inventory management for independent bookshops. Used to run [Il Libraio Cuneo](https://illibraiocuneo.com/). | [librocco/librocco](https://github.com/librocco/librocco) |
 | [What is Edible](https://codemyriad.io/projects/02-what-is-edible) | Allergy-mindful digital menu builder for independent food businesses. | [whatisedible](https://github.com/whatisedible) |
 | [Cassini](https://codemyriad.io/projects/04-cassini) | Self-hosted call recording, transcription and summaries for Nextcloud Talk. | [gocassini](https://github.com/codemyriad/gocassini) · [cassini-format](https://github.com/codemyriad/cassini-format) · [kyutai_transcription](https://github.com/codemyriad/kyutai_transcription) |
 
