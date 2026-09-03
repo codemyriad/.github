@@ -37,18 +37,13 @@
 | :-- | :-- | :-- |
 | [Librocco](https://codemyriad.io/projects/01-librocco) | Open-source, local-first inventory management for independent bookshops. Runs daily at [Il Libraio, Cuneo](https://illibraiocuneo.com/). | [librocco/librocco](https://github.com/librocco/librocco) |
 | [What is Edible](https://codemyriad.io/projects/02-what-is-edible) | Allergy-mindful digital menu builder for independent food businesses. | [whatisedible](https://github.com/whatisedible) |
-| [Aire Spaces](https://codemyriad.io/projects/03-aire-spaces) | Automated monthly reporting and a client portal for a short-term property management business. | private |
 | [Cassini](https://codemyriad.io/projects/04-cassini) | Self-hosted call recording, transcription and summaries for Nextcloud Talk. | [gocassini](https://github.com/codemyriad/gocassini) · [cassini-format](https://github.com/codemyriad/cassini-format) · [kyutai_transcription](https://github.com/codemyriad/kyutai_transcription) |
-| [Tententoon](https://tententoon.codemyriad.io) | A toy for re-creating the Droste effect from Escher's *Print Gallery*. | [tententoon](https://github.com/codemyriad/tententoon) |
-| [codemyriad.io](https://codemyriad.io) | This organisation's website: Astro, Tailwind, DaisyUI. | [codemyriad.io](https://github.com/codemyriad/codemyriad.io) |
 
 ### Smaller things and experiments
 
-- [zebra](https://github.com/codemyriad/zebra) — browser extension to locally save and search your LLM conversations.
+- [tententoon](https://github.com/codemyriad/tententoon) — a toy for re-creating the Droste effect from Escher's *Print Gallery*. [Try it](https://tententoon.codemyriad.io).
 - [bookmarklet-waveforms](https://github.com/codemyriad/bookmarklet-waveforms) — per-participant audio visualisations for Nextcloud Talk.
-- [kyutai_modal](https://github.com/codemyriad/kyutai_modal) — a container for running the realtime Kyutai speech-to-text model on modal.com.
 - [tildagon-web-emulator](https://github.com/codemyriad/tildagon-web-emulator), [EMF](https://github.com/codemyriad/EMF), [protogon](https://github.com/codemyriad/protogon) — hardware and firmware play around the EMF Camp Tildagon badge.
-- [lamasca-processing](https://github.com/codemyriad/lamasca-processing) — digitisation support for *La Masca*, a historical newspaper.
 
 We also keep forks of upstream projects we depend on or contribute to, such as [cr-sqlite](https://github.com/codemyriad/cr-sqlite), [vlcn-js](https://github.com/codemyriad/vlcn-js) and [wa-sqlite](https://github.com/codemyriad/wa-sqlite). See [our blog](https://codemyriad.io/blog) for how we work with third-party dependencies.
 
